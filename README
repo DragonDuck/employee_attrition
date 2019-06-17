@@ -1,0 +1,15 @@
+Column Name		Description
+----------------------------------------------------------------------------
+id			Employee id
+satisfaction		Satisfaction level in percentile
+last_evaluation		Employee’s last performance scare in percentile
+number_project		Number of project being handled by the employee
+average_monthly_hours	Average monthly hours worked
+time_spend_company	Average hours spent in office
+work_accident		Number of work accident encountered
+left			“1” indicates that the employee has left the company
+			and “0” indicates otherwise.
+promotion_last_5years	Has the employee been promoted in the last 5-years. 
+			“1” indicates yes and “0” otherwise.
+sales			Indicate area of operations
+salary			The level of salary
