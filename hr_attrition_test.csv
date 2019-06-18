@@ -1,4 +1,4 @@
-id,satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spend_company,Work_accident,promotion_last_5years,sales,salary
+id,satisfaction_level,last_evaluation,number_projects,average_monthly_hours,time_spent_company,num_work_accidents,promotion_last_5years,department,salary
 13001,0.62,0.94,4,252,4,0,0,accounting,low
 13002,0.38,0.52,2,171,3,0,0,accounting,medium
 13003,0.8,0.77,4,194,3,0,0,accounting,medium
